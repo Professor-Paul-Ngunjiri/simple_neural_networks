@@ -44,7 +44,7 @@ pip install numpy matplotlib
 
 ### 3️⃣ Run the Script
 ```sh
-python neural_network.py
+python neural_network_backprop_simulation.py
 ```
 
 ---
