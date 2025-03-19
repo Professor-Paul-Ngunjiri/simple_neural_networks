@@ -151,10 +151,10 @@ Potential enhancements for this project include:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify the code as needed!
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE**. Feel free to use and modify the code as needed!
 
 ```md
-MIT License
+GNU GENERAL PUBLIC LICENSE
 Copyright (c) 2025
 ```
 
